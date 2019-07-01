@@ -1,0 +1,5 @@
+<view class='vedio-list' wx:for='{{movieList}}' wx:key='user'>
+  <view class='vedio-title'>标题：{{item.title}}</view>
+  <view class='vedio-time'>时间：{{item.time}}</view>
+  <video src='{{item.src}}' objectFit='fill'></video>
+</view>

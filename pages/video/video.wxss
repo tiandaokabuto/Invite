@@ -1,0 +1,21 @@
+.vedio-list {
+  box-shadow: 0 8rpx 17rpx 0 rgba(7, 17, 27, 0.1);
+  margin: 10rpx 25rpx;
+  padding: 20rpx;
+  border-radius: 10rpx;
+  margin-bottom: 30rpx;
+  background: #fff
+}
+.vedio-title {
+  font-size: 35rpx;
+  color: #333
+}
+.vedio-time {
+  font-size: 30rpx;
+  color: #979797;
+  margin-bottom: 10rpx;
+}
+.vedio-list video {
+  width: 100%;
+  margin-top: 30rpx;
+}
